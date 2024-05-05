@@ -1,14 +1,13 @@
-
 source_file = "user_demo.txt"
-final_file = "user_result.txt"
-favorite_list = [   Favorite_list = [
+final_file = user_result.txt"
+favorite_list = [
     "广东珠江",
     "开平综合",
     "开平生活",
-    "CCTV-1",   “知名”,
-    "CCTV-5",   “中央5”,
-    "CCTV-5+",   “中央5”,
-    "CCTV-13",   “CCTV-13”,
+    "CCTV-1",
+    "CCTV-5",
+    "CCTV-5+",
+    "CCTV-13",
     "广东体育",
     "广东卫视",
     "大湾区卫视",
@@ -17,9 +16,9 @@ favorite_list = [   Favorite_list = [
     "翡翠台",
 ]
 favorite_page_num = 6
-default_page_num = 4   默认页数为4。
-urls_limit = 15   Urls_limit = 15
+default_page_num = 4
+urls_limit = 15
 response_time_weight = 0.5
-resolution_weight = 0.5   将分辨率权重设置为0.5。
-recent_days = 30   Recent_days = 30
-ipv_type = "ipv4"   Ipv_type = "ipv4"
+resolution_weight = 0.5
+recent_days = 30
+ipv_type = "ipv4"
